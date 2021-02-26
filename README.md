@@ -1,4 +1,4 @@
-# Powercourse-Python-Data-Science
+# Powercourse Python Data Science
 This repo contains a Python Jupyter notebook environment, 
 datasets for data manipulation and notebooks explaining 
 the basics of Jupyter notebook and Python data Science in general.
