@@ -1,7 +1,7 @@
 FROM jupyter/datascience-notebook:notebook-6.2.0
 
 LABEL description = "Powercourse - Python Data Science - Jupyter Notebook"
-LABEL maintainer = "rinesh.ramadhin@gmail.com"
+LABEL maintainer = "Rinesh Ramadhin"
 
 RUN pip install --upgrade pip
 RUN pip install jupyter_contrib_nbextensions
