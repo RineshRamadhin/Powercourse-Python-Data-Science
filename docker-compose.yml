@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: ./compose/jupyter/Dockerfile
+    ports:
+      - 8888:8888
+    restart: always
+    volumes:
+      - ./notebooks:/src/notebooks
