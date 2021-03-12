@@ -19,9 +19,11 @@ jupyter_1  |      or http://127.0.0.1:8888/?token=2170cb82273a778165249bcaa12038
 5. Copy the localhost link into a browser to interact with the notebooks.
 
 ## References
+- https://colab.research.google.com/
 - https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 - https://medium.com/analytics-vidhya/python-data-manipulation-fb86d0cdd028
 - https://pandas.pydata.org/
 - https://seaborn.pydata.org/
 - https://matplotlib.org/stable/index.html
+- https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
