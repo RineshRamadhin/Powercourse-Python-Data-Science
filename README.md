@@ -28,3 +28,5 @@ jupyter_1  |      or http://127.0.0.1:8888/?token=2170cb82273a778165249bcaa12038
 - https://matplotlib.org/stable/index.html
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 - https://www.datacamp.com/community/blog/python-scientific-computing-case
+- https://www.codecademy.com/learn/data-manipulation-in-python-dvp/modules/pandas-dvp/cheatsheet
+- https://analyzingalpha.com/data-manipulation-with-python-and-pandas
