@@ -3,8 +3,6 @@ This repo contains a Python Jupyter notebook environment,
 datasets for data manipulation and notebooks explaining 
 the basics of Jupyter notebook and Python data Science in general.
 
-![alt text](attachments/Jupyter.png "Jupyter notebook")
-
 ## Setup guide
 1. Clone this repository.
 2. Install [Docker](https://www.docker.com/products/docker-desktop).
